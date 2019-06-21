@@ -2,7 +2,7 @@ Codelab for Implementing a Helpdesk Chatbot with Dialogflow & BigQuery ML
 ============
 
 This repository contains the code for the Implementing a Helpdesk Chatbot with Dialogflow & BigQuery ML codelab:
-* [Implementing a Helpdesk Chatbot with Dialogflow & BigQuery ML codelab](https://g.co/codelabs/cloud-dialogflow-bqml)
+* [Implementing a Helpdesk Chatbot with Dialogflow & BigQuery ML codelab](https://codelabs.developers.google.com/codelabs/cloud-dialogflow-bqml/index.html)
 
 Introduction
 ------------
